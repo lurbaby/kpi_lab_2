@@ -1,3 +1,0 @@
-/home/lurbaby/RTF_1/lab2_cpp/cmake-build-debug/CMakeFiles/lab2_cpp.dir
-/home/lurbaby/RTF_1/lab2_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/lurbaby/RTF_1/lab2_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
